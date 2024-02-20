@@ -1,0 +1,8 @@
+.coverline {
+    border: 2px solid blue;
+    border-radius: 15px;
+}
+.cover {
+    background-color: blue;
+    color: white;
+}
